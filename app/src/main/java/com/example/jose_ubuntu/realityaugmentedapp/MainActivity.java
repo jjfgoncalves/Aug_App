@@ -25,7 +25,7 @@ import java.util.Date;
 import java.text.SimpleDateFormat;
 
 
-//Test1
+//TEst2
 public class MainActivity extends AppCompatActivity implements OnClickListener {
     public static final int MEDIA_TYPE_IMAGE = 1;
     private static final String TAG = "CENAS";
